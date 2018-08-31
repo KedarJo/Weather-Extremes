@@ -15,4 +15,5 @@ $ jupyter notebook
 This will open a browser based folder structure where you can open the ipynb file and step through the code
 
 4. Below is the visual created
+
 ![Temp Extremes](https://github.com/KedarJo/Weather-Extremes/blob/master/Temp%20Extremes.png)
